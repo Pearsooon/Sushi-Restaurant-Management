@@ -1,17 +1,24 @@
 # Sushi Restaurant Management System 🍣  
 A Windows Forms application for managing sushi restaurant operations, including order processing, customer membership, and revenue tracking.
 
+
+## Screenshots  
+![Login](Screenshots/Login.jpg)  
+
+
 ## Technologies Used  
 - **Programming Language:** C#  
 - **Database:** SQL Server  
 - **Tools & Frameworks:** WinForms, ADO.NET, Stored Procedures, Triggers, Indexing  
 - **Database Design:** ERD, Normalization (3NF), Indexing & Partitioning Optimization
-- 
+
+  
 ## Technologies Used  
 - **Programming Language:** C#  
 - **Database:** SQL Server  
 - **Tools & Frameworks:** WinForms, ADO.NET, Stored Procedures, Triggers, Indexing  
 - **Database Design:** ERD, Normalization (3NF), Indexing & Partitioning Optimization  
+
 
 ## How to Run  
 1. Clone the repository:  
