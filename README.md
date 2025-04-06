@@ -1,5 +1,13 @@
+# Credits:
+Special thanks to my teammates
+- Nguyễn Đăng Khoa
+- Đỗ Lương Nhật Minh
+- Nguyễn Thế Thanh Long
+
+  
 # Sushi Restaurant Management System 🍣  
 A Windows Forms application for managing sushi restaurant operations, including order processing, customer membership, and revenue tracking.
+*Developed for Group course project - Advanced Database
 
 
 ## Screenshots  
@@ -10,17 +18,10 @@ A Windows Forms application for managing sushi restaurant operations, including 
 - **Programming Language:** C#  
 - **Database:** SQL Server  
 - **Tools & Frameworks:** WinForms, ADO.NET, Stored Procedures, Triggers, Indexing  
-- **Database Design:** ERD, Normalization (3NF), Indexing & Partitioning Optimization
-
-  
-## Technologies Used  
-- **Programming Language:** C#  
-- **Database:** SQL Server  
-- **Tools & Frameworks:** WinForms, ADO.NET, Stored Procedures, Triggers, Indexing  
 - **Database Design:** ERD, Normalization (3NF), Indexing & Partitioning Optimization  
 
 
-## How to Run  
+## ▶️ How to Run  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Pearsooon/Sushi-Restaurant-Management.git
@@ -30,9 +31,7 @@ A Windows Forms application for managing sushi restaurant operations, including 
 5. Run the application.
 
 
-#### ✅ **Features**  
-```md
-## Features  
+#### ✅ **Features**   
 ✔️ Customer & Employee Management  
 ✔️ Order Processing & Payment  
 ✔️ Membership Program (Membership, Silver, Gold)  
